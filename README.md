@@ -15,7 +15,7 @@
   ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SASS&logoColor=CE6B9E)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
-<a href="https://www.youtube.com/channel/UCUORUOKKg8Ezj4tBJb_cRUQ"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Mauro%20Dev-blue?style=flat-square&logo=youtube"></a>
+<a href="https://www.youtube.com/@DAVIDPOLOP-b6w"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-david polo%20productions-blue?style=flat-square&logo=youtube"></a>
 <a href="dapolodm@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-dapolodm@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mauro069&label=Profile%20views&color=0e75b6&style=flat" alt="david polo de maria" /> </p>
