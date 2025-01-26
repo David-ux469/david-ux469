@@ -18,9 +18,6 @@ Tools
 
 Git, GitHub, Postman
 Visual Studio Code, Figma
-📈 My Stats
-Crazy coder's GitHub stats
-Crazy coder's GitHub streak stats
 🚀 Featured Projects
 🌐 My Portfolio
 A professional portfolio showcasing my skills and highlighted projects.
