@@ -37,4 +37,3 @@ Enthusiastic front-end developer with a passion for creating innovative solution
 I'm always open to new opportunities and collaborations! Check out my work, and let's connect.
 
 - 💌 Email: dapolodm@gmail.com
-- 🌐 [Visit My Website](
